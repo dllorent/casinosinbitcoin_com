@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Crypto Casinos in Australia
 
 You can use the [editor on GitHub](https://github.com/dllorent/casinosincrypto/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
